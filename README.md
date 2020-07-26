@@ -39,7 +39,9 @@ Clone repository
 
 Run `composer install` to install Drupal and dependencies.
 
-### PHP Server setup
+### Run on localhost
+
+* dev branch
 
 ```
  cd web
