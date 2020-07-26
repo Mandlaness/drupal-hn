@@ -49,4 +49,6 @@ Run `composer install` to install Drupal and dependencies.
 
 Visit http://localhost:8080 and install Drupal to begin.
 
-mandla / P@ssw0rd@2020
+Admin: mandla / P@ssw0rd@2020
+
+DB: https://we.tl/t-BKOma3hXOd
